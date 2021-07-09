@@ -1,0 +1,4 @@
+
+urlpatterns = {
+    "main_page": "/",
+}
